@@ -18,7 +18,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
-<sonar.login>sqp_d068aedbaedb1b56df39b4c98e936d8615d9b460</sonar.login>
+<!-- <sonar.login>sqp_d068aedbaedb1b56df39b4c98e936d8615d9b460</sonar.login> -->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
