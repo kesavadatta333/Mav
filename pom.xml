@@ -18,7 +18,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
-<sonar.login>sqp_cf2fd91fd78d0fab685c9f97f0864c382c6d2fd8</sonar.login> 
+
 
   <dependencies>
     <dependency>
